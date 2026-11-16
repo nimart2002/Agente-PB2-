@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Schemas and Memory Consolidation",
+    "year": 2007,
+    "authors": [{"name": "Lisman, J."}, {"name": "Morris, R."}],
+    "citationCount": 1200
+  },
+  {
+    "title": "Auto-Encoding Variational Bayes",
+    "year": 2014,
+    "authors": [{"name": "Kingma, D. P."}, {"name": "Welling, M."}],
+    "citationCount": 35000
+  },
+  {
+    "title": "Hopfield Networks is All You Need",
+    "year": 2020,
+    "authors": [{"name": "Ramsauer, H."}, {"name": "et al."}],
+    "citationCount": 800
+  },
+  {
+    "title": "A generative model of memory construction and consolidation",
+    "year": 2024,
+    "authors": [{"name": "Spens, E."}, {"name": "Burgess, N."}],
+    "citationCount": 50
+  },
+  {
+    "title": "Emergent computations in trained artificial neural networks and real brains",
+    "year": 2023,
+    "authors": [{"name": "Parga, N."}, {"name": "et al."}],
+    "citationCount": 20
+  }
+]
