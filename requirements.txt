@@ -7,3 +7,5 @@ langchain-core
 pypdf
 pandas
 streamlit
+langgraph
+langchain-google-genai
